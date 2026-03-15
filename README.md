@@ -1,6 +1,6 @@
-# CLAUDE.md
+# Anibody
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+リアルタイムのアニメ風（セルシェーディング）3D人体モデルレンダラー。オリジナル版は1999年に金子勇氏によりVisual C++、MFC、DirectX5を使用して開発された。本プログラムは金子氏により公開されたAnimeBody for X-Window Ver 1.0をベースとし、TypeScriptにコンバートしたものである。コンバートはClaude Codeを使用して行った。
 
 ## Commands
 
