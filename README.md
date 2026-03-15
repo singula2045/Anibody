@@ -18,7 +18,7 @@ npx tsc --noEmit
 
 ## Architecture
 
-C++ & X-Window/Xlib で書かれたアニメ調人体3D表示プログラムを TypeScript + HTML Canvas 2D API に変換したもの。オリジナルは cpp-original に保存されている。
+C++ & X-Window/Xlib で書かれたアニメ調人体3D表示プログラムを TypeScript + HTML Canvas 2D API に変換したもの。オリジナルは cpp-original に保存されている。 
 
 ### ファイル構成
 
